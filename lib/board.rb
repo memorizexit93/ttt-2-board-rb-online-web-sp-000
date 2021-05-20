@@ -1,3 +1,2 @@
 # Define the variable board below.
-board= x
-row = [" ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
